@@ -97,8 +97,8 @@ E) Salvar os dados
 16. O que é $_POST['usuario'] ?? ''?
 A) Um operador de comparação
 B) Um operador de nave espacial
-C) Um operador de coalescência nula
-D) Um erro de sintaxe (CORRETA)
+C) Um operador de coalescência nula (CORRETA)
+D) Um erro de sintaxe 
 E) Um loop condicional
 17. Qual é o valor padrão da variável $_SESSION['logado'] após login bem-sucedido?
 A) null
